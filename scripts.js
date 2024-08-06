@@ -19,6 +19,9 @@ console.log(guetsByClass)
 console.log(guetsByClass.item(0))
 console.log(guetsByClass[1])
 
+//Select list of elements by tag
 const guestsTag = document.getElementsByTagName("li")
 console.log(guestsTag)
+
+
 
